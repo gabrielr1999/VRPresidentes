@@ -17,5 +17,5 @@ Obtivemos um rico conhecimento na cadeira de IHC (Interface Humano Computador) c
 ![imagem 3](https://github.com/gabrielr1999/VRPresidentes/blob/master/imagem3.PNG)
 
 ## Saiba mais
-Os conhecimentos adquiridos para fazer o ambiente virtual foi através A-FRAME. Você pode encontrar vários exemplos e consultar a documentação para começar do zero.
-[A-frame](https://aframe.io/)
+Os conhecimentos adquiridos para fazer o ambiente virtual foi através do site [A-frame](https://aframe.io/). Você pode encontrar vários exemplos e consultar a documentação para começar do zero seu projeto.
+
