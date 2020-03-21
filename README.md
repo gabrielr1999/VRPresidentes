@@ -11,3 +11,11 @@ Obtivemos um rico conhecimento na cadeira de IHC (Interface Humano Computador) c
 - Eudes Roger da Silva
 - Alice Soares Nunes de Oliveira
 
+## Imagens 
+![imagem 1](https://github.com/gabrielr1999/VRPresidentes/blob/master/imagem1.PNG)
+![imagem 2](https://github.com/gabrielr1999/VRPresidentes/blob/master/imagem2.PNG)
+![imagem 3](https://github.com/gabrielr1999/VRPresidentes/blob/master/imagem3.PNG)
+
+## Saiba mais
+Os conhecimentos adquiridos para fazer o ambiente virtual foi através A-FRAME. Você pode encontrar vários exemplos e consultar a documentação para começar do zero.
+[A-frame](https://aframe.io/)
